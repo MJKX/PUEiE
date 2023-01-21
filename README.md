@@ -1,3 +1,3 @@
 # PUEiE
 
-Completed project uploaded in catalog complete.
+Completed project uploaded in catalog "completed_project".
